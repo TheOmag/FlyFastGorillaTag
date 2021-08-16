@@ -1,0 +1,15 @@
+1500
+3000
+6500
+
+Make sure not to set any values above 8000 or it will turn off.
+1500
+line 0 is B
+line 1 is grips + B
+line 2 is triggers + B + grips
+
+recomended speeds:
+
+1500
+3000
+6500
