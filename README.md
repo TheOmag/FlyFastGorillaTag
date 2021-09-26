@@ -2,11 +2,19 @@ A very fast flight mod for PC gorilla tag.
 
 
 Instructions
--Download, make a folder in the plugins folder and drag and drop the DLL file into it, make sure you are using BepInEx.
-Hold the B button down to fly
-Hit the A button to stop all velocity
-Hold both of the two grip buttons and the B button to enter super sonic mode
-Hold both the grips and triggers and the B button to activate god mode and fly like god
+-Download, make a folder in the plugins folder and drag and drop the zip file into it and extract it make sure there is one folder, make sure you are using BepInEx.
+-Hold the B button down to fly
+-Hit the A button to stop all velocity
+-hold the grip button to activate the dot.
+-hold the trigger + grip to move towards the dot(looks better in-game.)
+-Hold the right grip button and the B button to enter super sonic mode.
+-Hold the right grip, right trigger and the B button to activate god mode and fly like god.
+-just edit the config file in your notepad/text editor MAKE SURE THERE ARE NO SPACES IN THE CONFIG.
+-to activate hand direction set the 10 line to "true" with no space after(Deactivate by setting it to "false").
+-to activate dot movement set the value in the config to "true", no space.
+-if you set the config speed on any of the values above 8000 then the mod will turn off.
+
+IMPORTANT make sure that the config AND the dll file are both in a folder name FlyFast MAKE SURE the F are both capital.
 
 also these controls are for the oculus quest so if you have a different headset good luck, but it still will work.
 
